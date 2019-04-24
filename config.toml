@@ -21,6 +21,7 @@ disqusShortname = "taru"
     keywords = "blog,developer,personal,Android,Rails,Docker,Vim"
     info = "Engineer Android/Rails/Docker/Vim"
     avatarurl = "images/avatar.jpg"
+    footercontent = "🐰💪"
 
     dateformat = "January 2, 2006"
 
