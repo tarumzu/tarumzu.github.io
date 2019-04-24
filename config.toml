@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://tarumzu.github.io/"
 languageCode = "ja"
 title = "tarumzu Site"
 theme = "hugo-coder"
