@@ -21,7 +21,6 @@ disqusShortname = "taru"
     keywords = "blog,developer,personal,Android,Rails,Docker,Vim"
     info = "Engineer Android/Rails/Docker/Vim"
     avatarurl = "images/avatar.jpg"
-    footercontent = "🐰💪"
 
     dateformat = "January 2, 2006"
 
@@ -72,10 +71,10 @@ disqusShortname = "taru"
 
         [[languages.ja.menu.main]]
         name = "Qiita"
-        weight = 2
+        weight = 1
         url = "https://qiita.com/tarumzu"
 
         [[languages.ja.menu.main]]
         name = "Contact me"
-        weight = 5
+        weight = 2
         url = "/contact/"
