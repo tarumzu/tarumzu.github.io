@@ -1,7 +1,7 @@
 baseURL = "https://tarumzu.github.io/"
 languageCode = "ja"
 title = "tarumzu Site"
-theme = "hugo-coder"
+theme = "hugo-coder2"
 
 languagecode = "ja"
 defaultcontentlanguage = "ja"
