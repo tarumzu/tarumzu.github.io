@@ -76,6 +76,11 @@ disqusShortname = "taru"
         url = "https://qiita.com/tarumzu"
 
         [[languages.ja.menu.main]]
-        name = "Contact me"
+        name = "SpeakerDeck"
         weight = 2
+        url = "https://speakerdeck.com/tarumzu"
+
+        [[languages.ja.menu.main]]
+        name = "Contact me"
+        weight = 9
         url = "/contact/"
