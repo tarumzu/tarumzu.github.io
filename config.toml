@@ -1,7 +1,7 @@
 baseURL = "https://tarumzu.github.io/"
 languageCode = "ja"
 title = "tarumzu Site"
-theme = "hugo-coder2"
+theme = "hugo-coder"
 
 languagecode = "ja"
 defaultcontentlanguage = "ja"
@@ -60,6 +60,11 @@ disqusShortname = "taru"
     icon = "fab fa-linkedin"
     weight = 3
     url = "https://www.linkedin.com/in/watarumizukami/"
+[[params.social]]
+    name = "SpeakerDeck"
+    icon = "fab fa-speaker-deck"
+    weight = 4
+    url = "https://speakerdeck.com/tarumzu"
 
 [languages]
     [languages.ja]
@@ -74,11 +79,6 @@ disqusShortname = "taru"
         name = "Qiita"
         weight = 1
         url = "https://qiita.com/tarumzu"
-
-        [[languages.ja.menu.main]]
-        name = "SpeakerDeck"
-        weight = 2
-        url = "https://speakerdeck.com/tarumzu"
 
         [[languages.ja.menu.main]]
         name = "Contact me"
