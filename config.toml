@@ -1,5 +1,6 @@
 baseurl = "https://tarumzu.github.io/"
-title = "tarumzu Site"
+title = "tarumzu"
+
 theme = "hugo-coder"
 
 languagecode = "ja"
