@@ -78,18 +78,18 @@ disqusShortname = "taru"
 [languages]
     [languages.ja]
         languagename = "Japanese"
+        [languages.ja.menu]
+            #[[languages.ja.menu.main]]
+            #name = "About"
+            #weight = 1
+            #url = "/about/"
 
-        #[[languages.ja.menu.main]]
-        #name = "About"
-        #weight = 1
-        #url = "/about/"
+            [[languages.ja.menu.main]]
+            name = "Qiita"
+            weight = 1
+            url = "https://qiita.com/tarumzu"
 
-        [[languages.ja.menu.main]]
-        name = "Qiita"
-        weight = 1
-        url = "https://qiita.com/tarumzu"
-
-        [[languages.ja.menu.main]]
-        name = "Contact me"
-        weight = 9
-        url = "/contact/"
+            [[languages.ja.menu.main]]
+            name = "Contact me"
+            weight = 9
+            url = "/contact/"
