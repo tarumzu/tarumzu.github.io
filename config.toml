@@ -78,11 +78,8 @@ disqusShortname = "taru"
 [languages]
     [languages.ja]
         languagename = "Japanese"
+
         [languages.ja.menu]
-            #[[languages.ja.menu.main]]
-            #name = "About"
-            #weight = 1
-            #url = "/about/"
 
             [[languages.ja.menu.main]]
             name = "Qiita"
@@ -92,4 +89,4 @@ disqusShortname = "taru"
             [[languages.ja.menu.main]]
             name = "Contact me"
             weight = 9
-            url = "/contact/"
+            url = "contact/"
