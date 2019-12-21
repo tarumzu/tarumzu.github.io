@@ -1,5 +1,4 @@
 baseURL = "https://tarumzu.github.io/"
-languageCode = "ja"
 title = "tarumzu Site"
 theme = "hugo-coder"
 
@@ -45,6 +44,9 @@ disqusShortname = "taru"
 
     # Custom CSS
     custom_css = []
+
+    # Custom JS
+    custom_js = []
 
 [taxonomies]
   series = "series"
