@@ -95,3 +95,18 @@ disqusShortname = "taru"
             name = "Contact me"
             weight = 9
             url = "contact/"
+
+    [languages.pt-br]
+        languagename = "Japanese"
+
+        [languages.pt-br.menu]
+
+            [[languages.pt-br.menu.main]]
+            name = "Qiita"
+            weight = 1
+            url = "https://qiita.com/tarumzu"
+
+            [[languages.pt-br.menu.main]]
+            name = "Contact me"
+            weight = 9
+            url = "contact/"
