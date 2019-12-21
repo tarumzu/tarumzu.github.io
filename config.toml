@@ -20,7 +20,7 @@ disqusShortname = "taru"
     description = "tarumzu's personal website"
     keywords = "blog,developer,personal,Android,Rails,Docker,Vim"
     info = "Engineer Android/Rails/Docker/Vim"
-    avatarurl = "https://avatars2.githubusercontent.com/u/9943053?s=460&v=4"
+    avatarurl = "https://avatars2.githubusercontent.com/u/9943053?s=460"
     footercontent = ""
 
     dateformat = "January 2, 2006"
@@ -87,5 +87,5 @@ disqusShortname = "taru"
 
             [[languages.ja.menu.main]]
             name = "Contact me"
-            weight = 9
+            weight = 1
             url = "contact/"
