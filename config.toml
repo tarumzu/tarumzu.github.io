@@ -49,7 +49,9 @@ disqusShortname = "taru"
     custom_js = []
 
 [taxonomies]
+  category = "categories"
   series = "series"
+  tag = "tags"
 
 [[params.social]]
     name = "Diary"
