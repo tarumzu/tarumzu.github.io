@@ -38,7 +38,7 @@ disqusShortname = "taru"
     # "auto" (use preference set by browser)
     # "dark" (dark background, light foreground)
     # "light" (light background, dark foreground) (default)
-    colorscheme = "light"
+    colorscheme = "auto"
 
     # Series see also post count
     maxSeeAlsoItems = 5
@@ -79,6 +79,10 @@ disqusShortname = "taru"
     icon = "fab fa-speaker-deck"
     weight = 5
     url = "https://speakerdeck.com/tarumzu"
+[[params.social]]
+    name = "Qiita"
+    weight = 6
+    url = "https://qiita.com/tarumzu"
 
 [languages]
     [languages.ja]
@@ -87,26 +91,6 @@ disqusShortname = "taru"
         [languages.ja.menu]
 
             [[languages.ja.menu.main]]
-            name = "Qiita"
-            weight = 1
-            url = "https://qiita.com/tarumzu"
-
-            [[languages.ja.menu.main]]
-            name = "Contact me"
-            weight = 9
-            url = "contact/"
-
-    [languages.pt-br]
-        languagename = "Japanese"
-
-        [languages.pt-br.menu]
-
-            [[languages.pt-br.menu.main]]
-            name = "Qiita"
-            weight = 1
-            url = "https://qiita.com/tarumzu"
-
-            [[languages.pt-br.menu.main]]
             name = "Contact me"
             weight = 9
             url = "contact/"
