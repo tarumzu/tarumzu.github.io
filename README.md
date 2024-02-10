@@ -5,5 +5,5 @@ brew install hugo
 
 hugo -D
 
-cp public/* ./
+cp -r public/* ./
 ```

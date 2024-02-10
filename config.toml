@@ -19,11 +19,12 @@ disqusShortname = "taru"
     author = "Wataru Mizukami"
     description = "tarumzu's personal website"
     keywords = "blog,developer,personal,Android,Rails,Docker,Vim"
-    info = "Engineer Android/Rails/Docker/Vim"
+    info = "Android App Engineer/Firebase/Rails/Docker/Vim"
     avatarurl = "https://avatars2.githubusercontent.com/u/9943053?s=460"
     footercontent = ""
 
     dateformat = "January 2, 2006"
+    since = 2019
 
     hideCredits = false
     hideCopyright = false
@@ -50,34 +51,43 @@ disqusShortname = "taru"
   tag = "tags"
 
 [[params.social]]
-    name = "Diary"
-    icon = "fa fa-book-open fa-lg"
-    weight = 1
-    url = "https://tarumzu.hateblo.jp/"
-[[params.social]]
     name = "Github"
-    icon = "fab fa-github"
-    weight = 2
+    icon = "fa-brands fa-github"
+    weight = 1
     url = "https://github.com/tarumzu/"
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 3
-    url = "https://twitter.com/tarumzu/"
-[[params.social]]
-    name = "LinkedIn"
-    icon = "fab fa-linkedin"
-    weight = 4
-    url = "https://www.linkedin.com/in/watarumizukami/"
-[[params.social]]
     name = "SpeakerDeck"
-    icon = "fab fa-speaker-deck"
-    weight = 5
+    icon = "fa-brands fa-speaker-deck"
+    weight = 2
     url = "https://speakerdeck.com/tarumzu"
 [[params.social]]
     name = "Qiita"
-    weight = 6
+    weight = 3
     url = "https://qiita.com/tarumzu"
+[[params.social]]
+    name = "Twitter"
+    icon = "fa-brands fa-x-twitter"
+    weight = 4
+    url = "https://twitter.com/tarumzu/"
+[[params.social]]
+    name = "Bluesky"
+    weight = 5
+    url = "https://bsky.app/profile/tarumzu.bsky.social"
+[[params.social]]
+    name = "Threads"
+    icon = "fa-brands fa-threads"
+    weight = 6
+    url = "https://www.threads.net/@tarumzu"
+[[params.social]]
+    name = "Diary"
+    icon = "fa fa-book-open fa-lg"
+    weight = 7
+    url = "https://tarumzu.hateblo.jp/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa-brands fa-linkedin"
+    weight = 8
+    url = "https://www.linkedin.com/in/watarumizukami/"
 
 [languages]
     [languages.ja]

@@ -6,9 +6,6 @@
     <description>Recent content in Tags on tarumzu Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    
-	<atom:link href="https://tarumzu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://tarumzu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
